@@ -6,7 +6,6 @@
 **Room:** Simple CTF
 **Difficulty:** Easy
 
----
 
 ## Objective
 
