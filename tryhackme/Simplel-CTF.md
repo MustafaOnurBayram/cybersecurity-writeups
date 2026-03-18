@@ -2,9 +2,9 @@
 
 ## Room Information
 
-**Platform:** TryHackMe
-**Room:** Simple CTF
-**Difficulty:** Easy
+**Platform:** TryHackMe  
+**Room:** Simple CTF  
+**Difficulty:** Easy  
 
 
 ## Objective
