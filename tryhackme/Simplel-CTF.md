@@ -1,5 +1,3 @@
----
-
 # Simple CTF Writeup
 
 ## Room Information
