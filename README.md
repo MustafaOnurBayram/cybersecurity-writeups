@@ -21,7 +21,7 @@ Currently included platforms:
 | Room | Difficulty | Writeup |
 |------|-----------|--------|
 | Pickle Rick | Easy | [View Writeup](tryhackme/pickle-rick.md) |
-| Simple CTF | Easy | [View Writeup](tryhackme/simple-ctf.md) |
+| Simple CTF | Easy | [View Writeup](tryhackme/Simple-CTF.md) |
 
 ---
 
