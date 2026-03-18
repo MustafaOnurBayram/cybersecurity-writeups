@@ -10,18 +10,19 @@ The goal of this repository is to document the techniques, tools, and methodolog
 
 Currently included platforms:
 
-- TryHackMe
-- (Future) HackTheBox
-- (Future) Other CTF platforms
+* TryHackMe
+* (Future) HackTheBox
+* (Future) Other CTF platforms
 
 ---
 
 ## TryHackMe Writeups
 
-| Room | Difficulty | Writeup |
-|------|-----------|--------|
-| Pickle Rick | Easy | [View Writeup](tryhackme/pickle-rick.md) |
-| Simple CTF | Easy | [View Writeup](tryhackme/Simple-CTF.md) |
+| Room             | Difficulty | Writeup                                       |
+| ---------------- | ---------- | --------------------------------------------- |
+| Pickle Rick      | Easy       | [View Writeup](tryhackme/pickle-rick.md)      |
+| Simple CTF       | Easy       | [View Writeup](tryhackme/Simple-CTF.md)       |
+| Basic Pentesting | Easy       | [View Writeup](tryhackme/Basic-Pentesting.md) |
 
 ---
 
@@ -29,14 +30,15 @@ Currently included platforms:
 
 During these labs, I practice and improve the following cybersecurity skills:
 
-- Network enumeration
-- Web application analysis
-- Directory discovery
-- Exploitation techniques (e.g., SQL Injection)
-- Reverse shells
-- Privilege escalation
-- Linux system navigation
-- Basic penetration testing methodologies
+* Network enumeration
+* Web application analysis
+* Directory discovery
+* Exploitation techniques (e.g., SQL Injection)
+* Credential discovery and brute forcing
+* Reverse shells
+* Privilege escalation
+* Linux system navigation
+* Basic penetration testing methodologies
 
 ---
 
@@ -44,13 +46,15 @@ During these labs, I practice and improve the following cybersecurity skills:
 
 Common tools used in these labs include:
 
-- Nmap
-- Gobuster
-- Netcat
-- Searchsploit
-- Python
-- Linux command-line tools
-- Web browser developer tools
+* Nmap
+* Gobuster
+* Netcat
+* Searchsploit
+* Hydra
+* John the Ripper
+* Python
+* Linux command-line tools
+* Web browser developer tools
 
 ---
 
@@ -60,8 +64,9 @@ Common tools used in these labs include:
 cybersecurity-writeups
 │
 ├── tryhackme
-│   └── pickle-rick.md
-|   └── Simple-CTF.md
+│   ├── pickle-rick.md
+│   ├── Simple-CTF.md
+│   └── Basic-Pentesting.md
 │
 └── README.md
 ```
@@ -71,4 +76,3 @@ cybersecurity-writeups
 ## Disclaimer
 
 These writeups are created for educational purposes only and document my learning process while solving cybersecurity challenges.
-
