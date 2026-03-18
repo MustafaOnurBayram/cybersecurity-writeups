@@ -19,22 +19,24 @@ Currently included platforms:
 ## TryHackMe Writeups
 
 | Room | Difficulty | Writeup |
-|-----|-----|-----|
+|------|-----------|--------|
 | Pickle Rick | Easy | [View Writeup](tryhackme/pickle-rick.md) |
+| Simple CTF | Easy | [View Writeup](tryhackme/simple-ctf.md) |
 
 ---
 
 ## Skills Practiced
 
-During these labs I practice and improve the following cybersecurity skills:
+During these labs, I practice and improve the following cybersecurity skills:
 
 - Network enumeration
 - Web application analysis
 - Directory discovery
+- Exploitation techniques (e.g., SQL Injection)
 - Reverse shells
 - Privilege escalation
 - Linux system navigation
-- Basic exploitation techniques
+- Basic penetration testing methodologies
 
 ---
 
@@ -45,8 +47,9 @@ Common tools used in these labs include:
 - Nmap
 - Gobuster
 - Netcat
+- Searchsploit
 - Python
-- Linux commands
+- Linux command-line tools
 - Web browser developer tools
 
 ---
@@ -58,6 +61,7 @@ cybersecurity-writeups
 │
 ├── tryhackme
 │   └── pickle-rick.md
+|   └── Simple-CTF.md
 │
 └── README.md
 ```
@@ -66,4 +70,5 @@ cybersecurity-writeups
 
 ## Disclaimer
 
-These writeups are created for **educational purposes only** and document my learning process while solving cybersecurity challenges.
+These writeups are created for educational purposes only and document my learning process while solving cybersecurity challenges.
+
