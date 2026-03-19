@@ -23,6 +23,7 @@ Currently included platforms:
 | Pickle Rick      | Easy       | [View Writeup](tryhackme/pickle-rick.md)      |
 | Simple CTF       | Easy       | [View Writeup](tryhackme/Simple-CTF.md)       |
 | Basic Pentesting | Easy       | [View Writeup](tryhackme/Basic-Pentesting.md) |
+| Bounty Hacker    | Easy       | [View Writeup](tryhackme/Bounty-Hacker.md)    |
 
 ---
 
@@ -35,6 +36,7 @@ During these labs, I practice and improve the following cybersecurity skills:
 * Directory discovery
 * Exploitation techniques (e.g., SQL Injection)
 * Credential discovery and brute forcing
+* Anonymous FTP enumeration
 * Reverse shells
 * Privilege escalation
 * Linux system navigation
@@ -52,6 +54,8 @@ Common tools used in these labs include:
 * Searchsploit
 * Hydra
 * John the Ripper
+* FTP
+* SSH
 * Python
 * Linux command-line tools
 * Web browser developer tools
@@ -67,7 +71,8 @@ cybersecurity-writeups
 │   ├── pickle-rick.md
 │   ├── Simple-CTF.md
 │   └── Basic-Pentesting.md
-│
+│   └── Bounty-Hacker.md
+|
 └── README.md
 ```
 
