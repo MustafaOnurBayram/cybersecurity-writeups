@@ -70,7 +70,7 @@ cybersecurity-writeups
 ├── tryhackme
 │   ├── pickle-rick.md
 │   ├── Simple-CTF.md
-│   └── Basic-Pentesting.md
+│   ├── Basic-Pentesting.md
 │   └── Bounty-Hacker.md
 |
 └── README.md
