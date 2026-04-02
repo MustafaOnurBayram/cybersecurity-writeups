@@ -1,8 +1,8 @@
 # Cybersecurity Writeups
 
-This repository contains my cybersecurity lab notes and CTF writeups while learning and practicing penetration testing and security analysis.
+This repository contains my cybersecurity lab notes and CTF writeups while learning and practicing penetration testing, enumeration, exploitation, and privilege escalation techniques.
 
-The goal of this repository is to document the techniques, tools, and methodologies used during different cybersecurity challenges.
+The goal of this repository is to document the tools, techniques, and methodologies used during different cybersecurity challenges and to track my learning progress in a structured way.
 
 ---
 
@@ -24,6 +24,7 @@ Currently included platforms:
 | Simple CTF       | Easy       | [View Writeup](tryhackme/Simple-CTF.md)       |
 | Basic Pentesting | Easy       | [View Writeup](tryhackme/Basic-Pentesting.md) |
 | Bounty Hacker    | Easy       | [View Writeup](tryhackme/Bounty-Hacker.md)    |
+| Blue             | Easy       | [View Writeup](tryhackme/Blue.md)             |
 
 ---
 
@@ -32,15 +33,21 @@ Currently included platforms:
 During these labs, I practice and improve the following cybersecurity skills:
 
 * Network enumeration
+* Service and version detection
+* Vulnerability identification
 * Web application analysis
-* Directory discovery
-* Exploitation techniques (e.g., SQL Injection)
-* Credential discovery and brute forcing
+* Directory and file discovery
+* SMB enumeration
 * Anonymous FTP enumeration
+* Credential discovery
+* Password attacks and hash cracking
 * Reverse shells
+* Meterpreter session handling
 * Privilege escalation
+* Process migration
 * Linux system navigation
-* Basic penetration testing methodologies
+* Basic Windows post-exploitation
+* Basic penetration testing methodology
 
 ---
 
@@ -54,6 +61,9 @@ Common tools used in these labs include:
 * Searchsploit
 * Hydra
 * John the Ripper
+* Metasploit Framework
+* Meterpreter
+* SMBClient
 * FTP
 * SSH
 * Python
@@ -64,15 +74,16 @@ Common tools used in these labs include:
 
 ## Repository Structure
 
-```
+```text
 cybersecurity-writeups
 │
 ├── tryhackme
 │   ├── pickle-rick.md
 │   ├── Simple-CTF.md
 │   ├── Basic-Pentesting.md
-│   └── Bounty-Hacker.md
-|
+│   ├── Bounty-Hacker.md
+│   └── Blue.md
+│
 └── README.md
 ```
 
